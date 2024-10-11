@@ -14,5 +14,10 @@
 | 8  | [Word Capitalization](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/46b6900f432e42831c7e9495ea57b5b47074e117/src/WordCapitalization.kt) | Codeforces   | 1                |
 | 9  | [Lucky Number](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/46b6900f432e42831c7e9495ea57b5b47074e117/src/WordCapitalization.kt)        | Codeforces   | 1                |
 | 10 | [Stones on The Table](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/46b6900f432e42831c7e9495ea57b5b47074e117/src/StonesOnTheTable.kt)   | Codeforces   | 1                |
+| 25 | [Soft Drinking](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/4244c67e1cf8d6135d44dffd6ce1b41cc3826e49/src/SoftDrinking.kt)             | Codeforces   | 1                |
+| 26 | [HQ9+](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/4244c67e1cf8d6135d44dffd6ce1b41cc3826e49/src/HQ9+.kt)                              | Codeforces   | 1                |
+| 27 | [Petya and Strings](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/4244c67e1cf8d6135d44dffd6ce1b41cc3826e49/src/PetyaAndStrings.kt)      | Codeforces   | 1                |
+| 28 | [Team](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/4244c67e1cf8d6135d44dffd6ce1b41cc3826e49/src/Team.kt)                              | Codeforces   | 1                |
+| 29 | [Bit++](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/4244c67e1cf8d6135d44dffd6ce1b41cc3826e49/src/Bit++.kt)                            | Codeforces   | 1                |
 
 </details>
