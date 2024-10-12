@@ -1,4 +1,5 @@
 ## Ladder 11: Codeforces Rating < 1300
+
 <details>
 <summary>Click to expand</summary>
 
@@ -19,7 +20,7 @@
 | 27 | [Petya and Strings](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/4244c67e1cf8d6135d44dffd6ce1b41cc3826e49/src/PetyaAndStrings.kt)      | Codeforces   | 1                |
 | 28 | [Team](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/4244c67e1cf8d6135d44dffd6ce1b41cc3826e49/src/Team.kt)                              | Codeforces   | 1                |
 | 29 | [Bit++](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/4244c67e1cf8d6135d44dffd6ce1b41cc3826e49/src/Bit++.kt)                            | Codeforces   | 1                |
-| 31 | [Dima and Friends](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/eb414ae9b0bdca2240e660db7b21bdceb1d8cce4/src/DimaAndFriends.kt)                  | Codeforces   | 1                |
-| 32 | [Jzzhu and Children](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/eb414ae9b0bdca2240e660db7b21bdceb1d8cce4/src/JzzhuAndChildren.kt)               | Codeforces   | 1                |
+| 31 | [Dima and Friends](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/eb414ae9b0bdca2240e660db7b21bdceb1d8cce4/src/DimaAndFriends.kt)        | Codeforces   | 1                |
+| 32 | [Jzzhu and Children](https://github.com/MuhammedEdrees/A2OJ-Ladder/blob/eb414ae9b0bdca2240e660db7b21bdceb1d8cce4/src/JzzhuAndChildren.kt)    | Codeforces   | 1                |
 
 </details>
